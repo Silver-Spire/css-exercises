@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.basic {
+    background-color: #f5a391;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one {
+    color: #00f;
+    font-size: 36px;
+}
+#another {
+    background-color: #93e5ac;
+    font-size: 24px;
+    font-weight: 700;
+}
